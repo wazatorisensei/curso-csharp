@@ -1,0 +1,15 @@
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\bin\Debug\net7.0\curso-csharp.exe
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\bin\Debug\net7.0\curso-csharp.deps.json
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\bin\Debug\net7.0\curso-csharp.runtimeconfig.json
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\bin\Debug\net7.0\curso-csharp.dll
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\bin\Debug\net7.0\curso-csharp.pdb
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.csproj.AssemblyReference.cache
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.AssemblyInfoInputs.cache
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.AssemblyInfo.cs
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.csproj.CoreCompileInputs.cache
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.dll
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\refint\curso-csharp.dll
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.pdb
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\curso-csharp.genruntimeconfig.cache
+C:\Users\JANYUZOKOHARA\Desktop\curso-csharp\obj\Debug\net7.0\ref\curso-csharp.dll
